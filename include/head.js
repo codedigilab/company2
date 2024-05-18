@@ -14,7 +14,7 @@ document.write(`
     <!-- == Page title == -->
     <title>Code Digi Lab</title>
     <!-- Favicon/x-icon -->
-    <link rel="shortcut icon" href="assets/img/logo/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/my/fev.png" type="image/x-icon">
     <!-- Bootstrap Min 5.2.3 Css-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- Fontawsome Icons Css-->

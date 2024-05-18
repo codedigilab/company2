@@ -48,7 +48,7 @@ document.write(`
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
                                             </span>
-                                            About Code Digi Lab
+                                            About
                                         </a>
                                     </li>
                                     <li>
@@ -99,14 +99,14 @@ document.write(`
                                 </h5>
                                 <p class="pra-clr mb-xxl-7 mb-xl-6 mb-6" data-aos="zoom-in"
                                     data-aos-duration="1400">
-                                    4517 Washington. mg Manchester, Kentucky 39495
+                                    Darbhanga Bihar 846009 <br> India
                                 </p>
                                 <span class="d-block" data-aos="zoom-in" data-aos-duration="1600">
                                     <span class="fw-bold white-clr mb-xxl-3 mb-2 d-block">
                                         Phone Call:
                                     </span>
                                     <span class="pra-clr">
-                                        208-6666-0112, 308-5555-0113
+                                        +91-7361040504
                                     </span>
                                 </span>
                             </div>
@@ -191,10 +191,8 @@ document.write(`
             <img src="assets/img/my/logo.png" alt="img">
         </a>
         <p>
-            Neque porro quisquam est, qui dolorem ipsum quia dolor sit consectetur, aliquam quaerats voluptatem. Ut
-            enim
-            ad minima veniam, exercitationem laboriosam, nisi ut aliquid ex ea autem velit esse quam nihil
-        </p>
+        ode Digi Lab. Is The Leading Custom Web Development Company Offering A Comprehensive Range Of Website Development Services.
+            </p>
         <div class="sub-contact-left d-grid">
             <div class="sub__contac-item">
                 <div class="content">
@@ -222,7 +220,7 @@ document.write(`
                         Call now
                     </span>
                     <a href="jasacript:void(0)" class="textp">
-                        +91-9102603030
+                        +91-7361040504
                     </a>
                 </div>
             </div>

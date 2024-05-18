@@ -74,24 +74,9 @@ document.write(`
                                 <li class="menu-link py-1">
                                     <a href="ecommerce.html" class="fw_500 white-clr">E-Commerce</a>
                                 </li>
-                                <li class="menu-link py-1">
-                                    <a href="service-details.html" class="fw_500 white-clr">Service Details</a>
-                                </li>
                             </ul>
                         </li>
-                            <li class="menu-item position-relative">
-                                <button class="position-relative  ps-5 fw_500 white-clr cus-z1">
-                                    Protfolio
-                                </button>
-                                <ul class="sub-menu px-lg-4 py-xxl-3 py-2">
-                                    <li class="menu-link py-1">
-                                        <a href="study-grid.html" class="fw_500 white-clr">Case Study</a>
-                                    </li>
-                                    <li class="menu-link py-1">
-                                        <a href="study-details.html" class="fw_500 white-clr">E-commerce</a>
-                                    </li>
-                                </ul>
-                            </li>
+                               
                             <li class="menu-item position-relative">
                                 <button class="position-relative  ps-5 fw_500 white-clr cus-z1">
                                     Blog
@@ -108,12 +93,17 @@ document.write(`
                                     </li>
                                 </ul>
                             </li>
-                           
+                                <li class="menu-item position-relative">
+                                    <a href="about.html" class="fw_500">
+                                        About Us
+                                    </a>
+                                </li>
                             <li class="menu-item position-relative">
                                 <a href="contact.html" class="fw_500">
                                     Contact Us
                                 </a>
                             </li>
+                            
                         </ul>
                     </div>
                     <div
@@ -139,7 +129,7 @@ document.write(`
                                 </defs>
                             </svg>
                             <span class="stext">
-                                +91-9102603030
+                                +91-7361040504
                             </span>
                         </a>
                         <div class="remove-click remove-clickbg-adding d-center m-auto">
