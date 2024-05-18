@@ -7,11 +7,12 @@ document.write(`
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Keywords -->
-    <meta name="keywords" content="boot, Bootstrap, Xstar - HTML Template">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="keywords" content="Code Digi Lab">
     <!--  Description -->
-    <meta name="description" content="Xstar - Landing HTML Template">
+    <meta name="description" content="Code Digi Lab">
     <!-- == Page title == -->
-    <title>Xstar - Digital Agency HTML Template</title>
+    <title>Code Digi Lab</title>
     <!-- Favicon/x-icon -->
     <link rel="shortcut icon" href="assets/img/logo/favicon.png" type="image/x-icon">
     <!-- Bootstrap Min 5.2.3 Css-->

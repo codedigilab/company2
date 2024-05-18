@@ -48,7 +48,7 @@ document.write(`
                                             <span class="ani-icons">
                                                 <i class="fas fa-angle-double-right pra-clr"></i>
                                             </span>
-                                            About Xstar
+                                            About Code Digi Lab
                                         </a>
                                     </li>
                                     <li>
@@ -167,10 +167,10 @@ document.write(`
             <div
                 class="d-md-flex gap-md-0 gap-4 d-grid align-items-center justify-content-md-between justify-content-center">
                 <p class="pra-clr">
-                    &copy; All Copyright 2024 by <a href="index.html" class="theme-clr">Xstar</a>
+                    &copy; All Copyright 2019 by <a href="index.html" class="theme-clr"> Code Digi Lab</a>
                 </p>
                 <a href="index.html" class="footer-logov1 m-md-0 m-auto">
-                    <img src="assets/img/logo/logo.png" alt="img">
+                    <img src="assets/img/my/logo.png" alt="img">
                 </a>
                 <a href="#" class="pra-clr">
                     Terms & Conditions Privacy Policy
@@ -188,7 +188,7 @@ document.write(`
     </div>
     <div class="sub-contact-wrapper d-grid">
         <a href="index.html" class="side-logo">
-            <img src="assets/img/logo/logo.png" alt="img">
+            <img src="assets/img/my/logo.png" alt="img">
         </a>
         <p>
             Neque porro quisquam est, qui dolorem ipsum quia dolor sit consectetur, aliquam quaerats voluptatem. Ut

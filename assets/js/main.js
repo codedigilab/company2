@@ -226,6 +226,80 @@ CSS TABLE OF CONTENTS
 		});
 		//--- Swiper service SLide End ---//
 
+		// khalid
+
+		//--- Swiper Project Study SLide End ---//
+		const serviceSliderr = new Swiper(".study-slidewrapp", {
+			spaceBetween: 0,
+			speed: 1500,
+			loop: true,
+			autoplay: {
+				delay: 1500,
+				disableOnInteraction: false,
+			},
+			navigation: {
+				nextEl: ".cmn-prev",
+				prevEl: ".cmn-next",
+			},
+
+			breakpoints: {
+				1199: {
+					slidesPerView: 1,
+				},
+				991: {
+					slidesPerView: 1,
+				},
+				767: {
+					slidesPerView: 1,
+				},
+				575: {
+					slidesPerView: 1,
+				},
+				0: {
+					slidesPerView: 1,
+				},
+			},
+		});
+		//--- Swiper project SLide End ---//
+
+		//--- Swiper service SLide start ---//
+		const studyslidewrapp = new Swiper(".study-slidewrapp", {
+			spaceBetween: 30,
+			speed: 1500,
+			loop: true,
+			autoplay: {
+				delay: 1500,
+				disableOnInteraction: false,
+			},
+			navigation: {
+				nextEl: ".cmn-prev",
+				prevEl: ".cmn-next",
+			},
+
+			breakpoints: {
+				1199: {
+					slidesPerView: 3,
+				},
+				991: {
+					slidesPerView: 3,
+					spaceBetween: 14,
+				},
+				767: {
+					slidesPerView: 3,
+					spaceBetween: 10,
+				},
+				575: {
+					slidesPerView: 1,
+					spaceBetween: 10,
+				},
+				0: {
+					slidesPerView: 1,
+					spaceBetween: 10,
+				},
+			},
+		});
+		//--- Swiper service SLide End ---//
+
 		//--- Swiper Testimonial SLide Start ---//
 		const testimonialwrapv2 = new Swiper(".testimonial-wrapv2", {
 			spaceBetween: 30,

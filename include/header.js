@@ -44,7 +44,7 @@ document.write(`
                 <div class="d-lg-flex flex-xl-nowrap flex-wrap align-items-center justify-content-lg-between">
                     <div class="d-flex align-items-center justify-content-between">
                         <a href="index.html" class="brand-logo">
-                            <img class="w-100" src="assets/img/logo/logo.png" alt="logo">
+                            <img class="w-100" src="assets/img/my/logo.png" alt="logo">
                         </a>
                         <button class="navbar-toggle-btn d-block d-lg-none" type="button">
                             <span></span>
@@ -68,6 +68,9 @@ document.write(`
                                 Services
                             </button>
                             <ul class="sub-menu px-lg-4 py-xxl-3 py-2">
+                               <li class="menu-link py-1">
+                                    <a href="service.html" class="fw_500 white-clr">All Service</a>
+                                </li>
                                 <li class="menu-link py-1">
                                     <a href="ecommerce.html" class="fw_500 white-clr">E-Commerce</a>
                                 </li>
