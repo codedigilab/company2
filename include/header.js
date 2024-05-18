@@ -37,7 +37,7 @@ document.write(`
 </div>
 
 <!-- Custom Header Start -->
-<header class="header-section cmn-fixed hb-border py-lg-0 py-6">
+<header class="header-section bg-dark cmn-fixed hb-border py-lg-0 py-6">
     <div class="container">
         <div class="main-navbar">
             <nav class="navbar-custom">
