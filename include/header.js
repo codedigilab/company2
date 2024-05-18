@@ -67,7 +67,7 @@ document.write(`
                             <button class="position-relative  ps-5 fw_500 white-clr cus-z1">
                                 Services
                             </button>
-                            <ul class="sub-menu px-lg-4 py-xxl-3 py-2">
+                            <ul style="border-radius: 10px;" class="sub-menu px-lg-4 py-xxl-3 py-2">
                                <li class="menu-link py-1">
                                     <a href="service.html" class="fw_500 white-clr">All Service</a>
                                 </li>
@@ -81,7 +81,7 @@ document.write(`
                                 <button class="position-relative  ps-5 fw_500 white-clr cus-z1">
                                     Blog
                                 </button>
-                                <ul class="sub-menu px-lg-4 py-xxl-3 py-2">
+                                <ul style="border-radius: 10px;" class="sub-menu px-lg-4 py-xxl-3 py-2">
                                     <li class="menu-link py-1">
                                         <a href="blog-grid.html" class="fw_500 white-clr">Blog Grid</a>
                                     </li>
